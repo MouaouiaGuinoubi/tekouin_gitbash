@@ -1,1 +1,1 @@
-grep "root" /etc/passwd | cat
+grep "root" /etc/passwd
